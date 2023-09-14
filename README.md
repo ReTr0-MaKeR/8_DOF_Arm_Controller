@@ -1,6 +1,6 @@
 # 8_DOF_Arm_Controller
 
-**Author:**Md. Tanvir Hassan
+**Author:** Md. Tanvir Hassan
 **Project Version:** 1.0
 
 ## Overview
